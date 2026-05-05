@@ -1,2 +1,29 @@
-# dog-cat-classification-cnn
-Image classification of dogs and cats using CNN deep learning model
+#  Dog & Cat Classification using CNN
+
+##  Description
+This project classifies images of dogs and cats using a Convolutional Neural Network (CNN).
+
+##  Problem
+Manual image classification is time-consuming and inefficient.
+
+##  Solution
+Built a CNN model to automatically classify images into dogs or cats.
+
+##  Technologies Used
+- Python
+- TensorFlow / Keras
+- OpenCV
+
+##  Features
+- Image preprocessing
+- CNN model training
+- Image classification
+
+##  Result
+The model successfully classifies images with good accuracy.
+
+##  Dataset
+Dataset link: (add your link here)
+
+##  Author
+Kirti Rajput
