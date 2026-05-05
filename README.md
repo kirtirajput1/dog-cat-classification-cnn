@@ -23,7 +23,7 @@ Built a CNN model to automatically classify images into dogs or cats.
 The model successfully classifies images with good accuracy.
 
 ##  Dataset
-Dataset link: (add your link here)
+Dog & Cat
 
 ##  Author
 Kirti Rajput
